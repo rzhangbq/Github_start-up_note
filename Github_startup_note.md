@@ -38,4 +38,36 @@
    
    - Click <button>commit changes</button>
    
-- Upload a new file
+- Upload a new file![Upload_new_file](./Upload_new_file.png)
+   - Click <button>commit changes</button>
+   - Don't forget to use relative address for the pictures in your markdown note (unless it is an online picture), and upload the pictures in the note to the **same** repository in Github as well
+      - Pictures displayed successfully on Github
+
+![Pictures_displayed_successfully_on_github](./Pictures_displayed_successfully_on_github.png)
+
+## 4. Pull request
+
+- Click <button>Compare & pullrequest</button>
+- Compare changes
+
+![Compare_changes](./Compare_changes.png)
+
+- Click <button>Create pull request</button>
+
+![Pulled_successfully](./Pulled_successfully.png)
+
+## 5. Merge pull request
+
+- Click pull request and view changes
+
+![Click_pull_request](./Click_pull_request.png)
+
+- Click <button>Merge pull request </button> and then <button>Confirm change</button>
+
+- Delete the edit branch
+  - ![Delete_edit_by_rzhangbq_branch](./Delete_edit_by_rzhangbq_branch.png)
+
+## 6. Postscript 
+
+- The sourse code of this markdown file is **really** uploaded to my Github repository 
+- You are welcome to come to my [repository](https://github.com/rzhangbq/Github_start-up_note) and view it
