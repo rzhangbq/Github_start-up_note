@@ -70,4 +70,4 @@
 ## 6. Postscript 
 
 - The sourse code of this markdown file is **really** uploaded to my Github repository 
-- You are welcome to come to my [repository](https://github.com/rzhangbq/Github_start-up_note) and view it
+- You are welcome to come to my repository and [view it](https://github.com/rzhangbq/Github_start-up_note/blob/main/Github_startup_note.md)
