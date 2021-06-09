@@ -65,7 +65,8 @@
 - Click <button>Merge pull request </button> and then <button>Confirm change</button>
 
 - Delete the edit branch
-  - ![Delete_edit_by_rzhangbq_branch](./Delete_edit_by_rzhangbq_branch.png)
+
+![Delete_edit_by_rzhangbq_branch](./Delete_edit_by_rzhangbq_branch.png)
 
 ## 6. Postscript 
 
